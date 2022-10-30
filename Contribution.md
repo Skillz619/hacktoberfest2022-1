@@ -267,3 +267,9 @@ https://www.typeform.com/
 
 83. Learn JavaScript 
 https://www.w3schools.com/js/default.asp
+
+83. Learn JavaScript 
+https://www.w3schools.com/js/default.asp
+
+84. Free AWS Cloud Practitioner Course by AWS
+https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?la=sec&sec=lp
