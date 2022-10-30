@@ -264,3 +264,6 @@ https://smalldev.tools/
 
 84. Typeform - Create forms, surveys, and quizzes that people enjoy answering
 https://www.typeform.com/
+
+83. Learn JavaScript 
+https://www.w3schools.com/js/default.asp
