@@ -256,5 +256,11 @@ https://animate.style/
 81. EditorX - Make your own website with just a few clicks and drag and drop.
 https://www.editorx.com/
 
-82. Typeform - Create forms, surveys, and quizzes that people enjoy answering
+82. Illustrations for Mobile & web projects
+https://storytale.io/
+
+83. Free Developer tools
+https://smalldev.tools/
+
+84. Typeform - Create forms, surveys, and quizzes that people enjoy answering
 https://www.typeform.com/
